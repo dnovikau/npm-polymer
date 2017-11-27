@@ -1,8 +1,10 @@
 {
-  "name": "my-app",
+  "name": "rm-app",
   "main": "index.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^2.0.0"
+    "polymer": "Polymer/polymer#^2.0.0",
+    "bootstrap": "~3.x.x",
+    "components-font-awesome": "^4.7.0"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^6.0.0",
